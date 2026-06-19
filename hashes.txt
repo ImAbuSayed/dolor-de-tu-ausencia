@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Dolor de
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T01:34:34.897714 | `v1` | `7e918b2086cc2c2a7b81f643ef248e86b9d59f292564786d57be8916c7769357` | `587186bcdc40d515f30e2c42958eb64426ec3fa0841859ad4f36cb4246e88c64` | `2026-06-20_dolor-de-tu-ausencia-v1.txt` |
+| 2026-06-20T02:10:33.847386 | `v2` | `3fb21bd7391a15e84ca853d5db0f8e44fe5953519d832bb1c566e1d5372403f2` | `758c1a08db26fdbd0fda6704526b689b9924000e3b2c71259fd4e40d8bd7795f` | `2026-06-20_dolor-de-tu-ausencia-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
