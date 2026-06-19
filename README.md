@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Dolor de tu ausencia |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dolor-de-tu-ausencia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dolor de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-tu-ausencia/) |
+| **Get License** | [Get License For Dolor de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-tu-ausencia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Esta noche la ciudad me recuerda a tu calor
-> Buscando en cada esquina el veneno de tu amor
-> El dolor de tu ausencia me rompe la calma
-> Quiero tenerte de nuevo y robarte el alma
+> Dime que te quedas, no me dejes solo aquí
+> Tus labios son veneno, yo quiero más de ti
+> La noche nos envuelve, no hay nadie que nos vea
+> Dolor de tu ausencia, mi piel se vuelve hoguera
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
