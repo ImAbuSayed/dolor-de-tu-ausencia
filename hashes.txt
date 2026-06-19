@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dolor de tu ausencia
+
+This log tracks the cryptographic history and versioning for the song **Dolor de tu ausencia** (dolor-de-tu-ausencia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T01:34:34.897714 | `v1` | `7e918b2086cc2c2a7b81f643ef248e86b9d59f292564786d57be8916c7769357` | `587186bcdc40d515f30e2c42958eb64426ec3fa0841859ad4f36cb4246e88c64` | `2026-06-20_dolor-de-tu-ausencia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
