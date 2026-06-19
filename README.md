@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dolor-de-tu-ausencia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Dolor de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-tu-ausencia/) |
+| **Get License** | [Request Licensing for Dolor de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-tu-ausencia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la ciudad me recuerda a tu calor
+> Buscando en cada esquina el veneno de tu amor
+> El dolor de tu ausencia me rompe la calma
+> Quiero tenerte de nuevo y robarte el alma
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
