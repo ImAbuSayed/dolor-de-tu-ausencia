@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dolor-de-tu-ausencia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Dolor de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-tu-ausencia/) |
+| **Get License** | [Commercial Licensing for Dolor de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-tu-ausencia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3740)
+- [Telegram](https://t.me/AbuSayedMusic/3751)
 
 ---
 
